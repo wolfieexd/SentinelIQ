@@ -1,4 +1,4 @@
-# SentinelIQ
+# SentinelIQ: Autonomous Security Incident Investigator
 
 ## Project Overview
 SentinelIQ is an AI-powered, autonomous security incident investigation platform built for enterprise SOC teams. It leverages a coordinated swarm of specialized agents to investigate cyber incidents, reconstruct attack timelines, identify root causes, and ground remediation recommendations using Enterprise Knowledge via Foundry IQ.
