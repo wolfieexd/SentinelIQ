@@ -7,7 +7,6 @@ SentinelIQ is an AI-powered, autonomous security incident investigation platform
 Modern Security Operations Centers (SOCs) are overwhelmed by alert fatigue, fragmented data, and slow manual investigation processes. Analysts spend hours manually correlating threat intelligence, digging through logs, and mapping events to frameworks like MITRE ATT&CK before they can even begin remediation. SentinelIQ automates this entire pipeline instantly and deterministically.
 
 ## Screenshots
-*(Note: Replace placeholders with actual image links before final submission)*
 
 - **Home Dashboard**: `![Home Dashboard](./docs/assets/home_dashboard.png)`
 - **Executive War Room**: `![Executive War Room](./docs/assets/war_room.png)`
