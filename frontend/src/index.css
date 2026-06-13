@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    overflow: hidden !important;
+  }
+
+  body {
+    @apply bg-background text-text-primary font-sans antialiased;
+  }
+}
+
+@layer components {
+  .panel {
+    @apply bg-panel border border-border p-4;
+  }
+  .data-table {
+    @apply w-full text-left font-mono text-sm;
+  }
+  .data-table th {
+    @apply text-text-secondary font-medium pb-2 border-b border-border;
+  }
+  .data-table td {
+    @apply py-2 border-b border-border border-opacity-50;
+  }
+}

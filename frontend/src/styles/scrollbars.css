@@ -1,0 +1,37 @@
+/* SentinelIQ Enterprise Scrollbar System */
+
+/* Firefox Support */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(120, 140, 170, 0.4) transparent;
+}
+
+/* WebKit Support (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(120, 140, 170, 0.4);
+  border-radius: 4px;
+  border: none;
+  transition: background-color 0.2s ease, opacity 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(120, 140, 170, 0.7);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(120, 140, 170, 0.9);
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}

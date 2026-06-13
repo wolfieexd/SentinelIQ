@@ -1,0 +1,24 @@
+[
+    {
+        "id": "INV-2024-0342",
+        "title": "Phishing Attack",
+        "scenario": "phishing",
+        "description": "Employee reported suspicious email attachment.",
+        "evidence_sources": [
+            {"type": "Email Headers", "count": 14},
+            {"type": "Endpoint Logs", "count": 1247},
+            {"type": "Active Directory Events", "count": 89},
+            {"type": "Network Flow Data", "count": 432},
+            {"type": "EDR Alerts", "count": 6}
+        ],
+        "planted_secrets": ["AKIAIOSFODNN7EXAMPLE", "admin@victimcorp.com"]
+    },
+    {
+        "id": "INV-2024-0343",
+        "title": "Ransomware Lateral Movement",
+        "scenario": "ransomware",
+        "description": "Multiple endpoints reporting encrypted files.",
+        "evidence_sources": [],
+        "planted_secrets": []
+    }
+]
