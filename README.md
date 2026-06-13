@@ -8,13 +8,26 @@ Modern Security Operations Centers (SOCs) are overwhelmed by alert fatigue, frag
 
 ## Screenshots
 
-- **Home Dashboard**: `![Home Dashboard](./docs/assets/home_dashboard.png)`
-- **Executive War Room**: `![Executive War Room](./docs/assets/war_room.png)`
-- **Phishing Investigation**: `![Phishing Investigation](./docs/assets/phishing.png)`
-- **Ransomware Investigation**: `![Ransomware Investigation](./docs/assets/ransomware.png)`
-- **Insider Threat Investigation**: `![Insider Threat Investigation](./docs/assets/insider.png)`
-- **Foundry IQ Knowledge Center**: `![Knowledge Center](./docs/assets/knowledge.png)`
-- **Settings & Configuration**: `![Settings](./docs/assets/settings.png)`
+### Home Dashboard
+![Home Dashboard](docs/assets/home_dashboard.png)
+
+### Executive War Room
+![Executive War Room](docs/assets/war_room.png)
+
+### Phishing Investigation
+![Phishing Investigation](docs/assets/phishing.png)
+
+### Ransomware Investigation
+![Ransomware Investigation](docs/assets/ransomware.png)
+
+### Insider Threat Investigation
+![Insider Threat Investigation](docs/assets/insider.png)
+
+### Foundry IQ Knowledge Center
+![Knowledge Center](docs/assets/knowledge.png)
+
+### Settings & Configuration
+![Settings](docs/assets/settings.png)
 
 ## 🏆 Quick Start (Judge Guide)
 
