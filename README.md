@@ -117,4 +117,4 @@ We have prepared a complete demo package for judges:
 - [Pitch Script](./docs/pitch_script.md)
 
 ## Author
-**Analyst: S. Sujan**
+**S. Sujan**
