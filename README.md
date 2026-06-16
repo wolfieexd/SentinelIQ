@@ -114,7 +114,6 @@ We have prepared a complete demo package for judges:
 - [Architecture Diagram](./docs/architecture.md)
 - [Workflow Diagram](./docs/workflow.md)
 - [Judge Walkthrough](./docs/judge_walkthrough.md)
-- [Pitch Script](./docs/pitch_script.md)
 
 ## Author
 S. Sujan  
